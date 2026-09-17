@@ -1,1 +1,1 @@
-# Kittycatgames.github.info
+print('Hello, world!')
